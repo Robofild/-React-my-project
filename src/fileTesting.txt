@@ -17,3 +17,15 @@ remote: Resolving deltas: 100% (2/2), done.
 To https://github.com/Robofild/-React-my-project.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+
+https://www.youtube.com/watch?v=OuOb1_qADBQ&t=3720s
+
+remove branch remote:
+git push origin :nametheUserBranch
+ delete  branch local:
+ -git checkout master 
+ -git branch -D +nametheUserBranch
+
+git pull
+
