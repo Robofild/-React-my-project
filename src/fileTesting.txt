@@ -1,2 +1,5 @@
 
 a new file intended for testing on the systems
+a new alteration
+git diff -- fileTesting.txt
+As new updade integration with github
