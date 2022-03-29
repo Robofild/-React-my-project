@@ -7,6 +7,9 @@ As new updade integration with github
 git remote -v 
 
 git push -u origin master
+
+git push -u origin DevAds
+
 Enumerating objects: 26, done.
 Counting objects: 100% (26/26), done.
 Delta compression using up to 4 threads
