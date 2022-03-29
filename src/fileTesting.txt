@@ -3,3 +3,19 @@ a new file intended for testing on the systems
 a new alteration
 git diff -- fileTesting.txt
 As new updade integration with github
+
+git remote -v 
+
+https://github.com/Robofild/-React-my-project.git (push)
+
+git push -u origin master
+Enumerating objects: 26, done.
+Counting objects: 100% (26/26), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (25/25), done.
+Writing objects: 100% (26/26), 150.58 KiB | 6.84 MiB/s, done.
+Total 26 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/Robofild/-React-my-project.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
