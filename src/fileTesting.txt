@@ -32,3 +32,17 @@ git push origin :nametheUserBranch
 
 git pull
 
+
+** contribuiton to project github
+   -click fork 
+   -git clone +refaddress
+   -remove package-lock.json folder
+   -fix possible erros in package.json
+   -remove the ones related to the git clone
+   -enter command in terminal 
+    npmi
+-ready the sistems
+
+
+https://www.youtube.com/watch?v=OuOb1_qADBQ&t=8305s
+
